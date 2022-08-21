@@ -1,5 +1,5 @@
-name: 'Elastic Logs'
-description: 'Send workflow logs to Elasticsearch'
+name: 'OpenSearch Logs'
+description: 'Send workflow logs to OpenSearch APIs'
 author: 'Massimiliano PIppi'
 inputs:
   repo-token:
